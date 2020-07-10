@@ -12,3 +12,11 @@ MX리눅스는 한글입력 설정이나 호환성 우려 등이 약점이지만
 
 mxlinux를 추천해 준 클리앙 리눅서당 공부하자님에게 감사드립니다.
 Link : https://www.clien.net/service/board/cm_linux/15133424
+
+
+## 순서
+1) kaffeine.md 읽고 kaffeine 플레이어를 설치합니다.
+
+2) .sh 받아 셸 스크립트 실행합니다.
+
+3) DVD를 넣고 Kaffeine 플레이어 설치 후 Open A DVD 클릭하면 DVD 메뉴가 나옵니다.
