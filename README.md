@@ -17,6 +17,6 @@ Link : https://www.clien.net/service/board/cm_linux/15133424
 ## 순서
 1) kaffeine.md 읽고 kaffeine 플레이어를 설치합니다.
 
-2) .sh 받아 셸 스크립트 실행합니다.
+2) dvd_codec_setting.sh 받아 (가급적 su로 슈퍼유저 들어간 상태에서) 셸 스크립트 실행합니다.
 
 3) DVD를 넣고 Kaffeine 플레이어 설치 후 Open A DVD 클릭하면 DVD 메뉴가 나옵니다.
